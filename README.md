@@ -1,27 +1,31 @@
-Проект "telegram_bot_project"
+# Проект "telegram_bot_project"
 
-Описание:
+**Описание:**
 
 Этот проект разработан с использованием Django и Django REST framework для создания API и включает в себя функции регистрации пользователей, аутентификации, отправки сообщений и интеграции с Telegram для генерации токенов.
 
-Требования:
+**Требования:**
+
 Для запуска проекта на вашем локальном компьютере вам понадобятся следующие зависимости:
 
-Python 3.11
-Django 4.2.6
-Django REST framework
-python-telegram-bot
+- Python 3.11
+- Django 4.2.6
+- Django REST framework
+- python-telegram-bot
 
-Установка:
-Склонируйте репозиторий на свой локальный компьютер:
+**Установка:**
+
+1. Склонируйте репозиторий на свой локальный компьютер:
 
 git clone https://github.com/yourusername/yourproject.git
-Создайте виртуальное окружение и активируйте его:
 
+2. Создайте виртуальное окружение и активируйте его:
+
+```bash
 python -m venv venv
 source venv/bin/activate (в Linux/Mac)
 venv\Scripts\activate (в Windows)
-
+```
 Установите зависимости:
 pip install -r requirements.txt
 
