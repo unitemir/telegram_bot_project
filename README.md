@@ -1,3 +1,6 @@
+Запущен на сервере: 
+# https://95c7-178-88-49-82.ngrok-free.app 
+
 # Проект "telegram_bot_project"
 
 **Описание:**
